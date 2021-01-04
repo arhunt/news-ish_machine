@@ -1,14 +1,12 @@
 # News-ish
 
-Click [HERE](https://arhunt.github.io/news-ish_machine/index.html) for a site describing our project.
+Click [HERE](https://arhunt.github.io/news-ish_machine/index.html) for more background on the project; click 'about' for an overview of the process.
 
 **Team Members :** <br>
 _Emilio Bello_ <br>
 _Allan Hunt_ <br>
 _Alex Mogren_ <br>
 _Matt Mead_
-
-**TO RUN MODEL LOCALLY**
 
 [CLICK HERE FOR INSTRUCTIONS ON RUNNING MODEL LOCALLY](#run-model-locally)
 
