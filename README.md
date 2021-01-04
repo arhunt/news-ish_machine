@@ -1,6 +1,6 @@
 # News-ish
 
-Click [HERE](https://mmeadx.github.io/newsish/index.html) for a site describing our project.
+Click [HERE](https://arhunt.github.io/news-ish_machine/index.html) for a site describing our project.
 
 **Team Members :** <br>
 _Emilio Bello_ <br>
@@ -36,28 +36,21 @@ _After building and running our model - the percentage of accuracy was very high
 
 To run this model on your local server follow these instructions:
 
-1. Create your virutal environment:
-
-    a. Open a GitBash or Terminal window
-    
-    b. conda create -n newsish python=3.6
-
-    c. source activate newsish
-
-    d. conda install pip
-
-    e. pip install pandas
-
-    f. pip install flask
-
-    g. pip install -U scikit-learn
-
-    h. Close the GitBash or Terminal window
-
-    
-2. Clone the news-ish repository to your computer
-3. Right click the news-ish folder and Open a GitBash or Terminal window
-4. source activate newsish
-5. python app.py
+1. Create your virtual environment:
+<ul><ul>
+    <li> Open a GitBash or Terminal window and run the these commands, confirming to proceed if prompted.</li>
+    <li> <code>conda create -n newsish python=3.6</code></li>
+    <li> <code>source activate newsish</code></li>
+    <li> <code>conda install pip</code></li>
+    <li> <code>pip install pandas</code></li>
+    <li> <code>pip install joblib</code></li>
+    <li> <code>pip install flask</code></li>
+    <li> <code>pip install -U scikit-learn</code></li>
+    <li> Close this GitBash or Terminal window.</li>
+</ul></ul>
+   
+2. Clone this repository to your computer then navigate to the root folder.
+3. In GitBash/Terminal: run <code>source activate newsish</code>
+4. Run the Jupyter Notebook (takes ~5 mins) to create the mode, then close and quit back to the GitBash or Terminal prompt.
+5. Run <code>python app.py</code>
 6. Once the program is running open a Chrome browser and go to http://127.0.0.1:5000/
-
