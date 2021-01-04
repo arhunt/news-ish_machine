@@ -8,7 +8,7 @@ _Allan Hunt_ <br>
 _Alex Mogren_ <br>
 _Matt Mead_
 
-[CLICK HERE FOR INSTRUCTIONS ON RUNNING MODEL LOCALLY](#run-model-locally)
+Click [HERE](#run-model-locally) for instructions on creating and running the model on your local machine.
 
 **Machine Learning Project Overview | Fake News Detector :**
 
